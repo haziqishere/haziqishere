@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm currently working on my Final Year Project, Facial Recognition Attendance System<br>🧑🏼‍💻Joining Hackathon competitively<br>⭐Fun Fact: I enjoy endurance sports. I love running and swimming. I've ran full marathon (42.2km) at KLSCM 2023 🏃🏽‍♂️
+I'm currently working on my Final Year Project, Facial Recognition Attendance System<br>🧑🏼‍💻Joining Hackathon competitively<br>Won 7 Hackathons as team lead from universitiy level up to winning industrial level hackathon.<br>⭐Fun Fact: I enjoy endurance sports. I love running and swimming. I've ran full marathon (42.2km) at KLSCM 2023 🏃🏽‍♂️
 
 
 ## 🌐 Socials:
